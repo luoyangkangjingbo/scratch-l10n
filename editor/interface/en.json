@@ -128,6 +128,10 @@
     "gui.menuBar.saveNowLink": "Save Now",
     "gui.menuBar.isShared": "Shared",
     "gui.menuBar.share": "Share",
+    "gui.menuBar.BACNew": "New Project",
+    "gui.menuBar.BACSave": "Save Project",
+    "gui.menuBar.BACShare": "Share Project",
+    "gui.menuBar.BACKeyBoard": "Key Board",
     "gui.modal.help": "Help",
     "gui.modal.back": "Back",
     "gui.monitor.listMonitor.empty": "(empty)",
@@ -502,5 +506,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
+    "gui.gui.BACDefaultProjectTitle": "Please Input Project Name:"
 }

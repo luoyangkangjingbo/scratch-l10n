@@ -128,6 +128,10 @@
     "gui.menuBar.saveNowLink": "立即保存",
     "gui.menuBar.isShared": "已分享",
     "gui.menuBar.share": "分享",
+    "gui.menuBar.BACNew": "新建",
+    "gui.menuBar.BACSave": "保存",
+    "gui.menuBar.BACShare": "发布",
+    "gui.menuBar.BACKeyBoard": "键盘",
     "gui.modal.help": "帮助",
     "gui.modal.back": "返回",
     "gui.monitor.listMonitor.empty": "(空)",
@@ -502,5 +506,6 @@
     "gui.sharedMessages.pop": "啵",
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中上传",
-    "gui.gui.defaultProjectTitle": "Scratch作品"
+    "gui.gui.defaultProjectTitle": "Scratch作品",
+    "gui.gui.BACDefaultProjectTitle": "请输入作品名称:"
 }
