@@ -243,6 +243,7 @@
     "gui.soundTab.addSoundFromLibrary": "Choose a Sound",
     "gui.spriteLibrary.chooseASprite": "Choose a Sprite",
     "gui.tipsLibrary.tutorials": "Choose a Tutorial",
+    "gui.BACProjectLibrary.tutorials": "Choose a Project",
     "gui.alerts.createsuccess": "New project created.",
     "gui.alerts.createcopysuccess": "Project saved as a copy.",
     "gui.alerts.createremixsuccess": "Project saved as a remix.",
