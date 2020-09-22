@@ -118,7 +118,7 @@
     "gui.menuBar.remix": "改编",
     "gui.menuBar.new": "新作品",
     "gui.menuBar.file": "文件",
-    "gui.menuBar.downloadToComputer": "保存到电脑",
+    "gui.menuBar.downloadToComputer": "下载到电脑",
     "gui.menuBar.edit": "编辑",
     "gui.menuBar.turboModeOff": "关闭加速模式",
     "gui.menuBar.turboModeOn": "打开加速模式",
@@ -128,6 +128,9 @@
     "gui.menuBar.saveNowLink": "立即保存",
     "gui.menuBar.isShared": "已分享",
     "gui.menuBar.share": "分享",
+    "gui.menuBar.BACNew": "新建作品",
+    "gui.menuBar.BACSave": "保存",
+    "gui.menuBar.BACSaveAs": "另存为",
     "gui.modal.help": "帮助",
     "gui.modal.back": "返回",
     "gui.monitor.listMonitor.empty": "(空)",
@@ -501,6 +504,6 @@
     "gui.sharedMessages.sprite": "角色{index}",
     "gui.sharedMessages.pop": "啵",
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
-    "gui.sharedMessages.loadFromComputerTitle": "从电脑中上传",
+    "gui.sharedMessages.loadFromComputerTitle": "从电脑上传",
     "gui.gui.defaultProjectTitle": "Scratch作品"
 }
